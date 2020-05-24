@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 
 Tasteful
 
@@ -19,3 +19,7 @@ Wail Solaiman (wailsolaiman@hotmail.com)
 
 - 0.1
   - Initial Release
+
+## View the app
+
+https://expo.io/@willard82/tasteful
